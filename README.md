@@ -4,6 +4,8 @@
 
 O objetivo deste aplicativo é oferecer uma ajuda no planejamento da viagem aos clientes da maior empresa de aluguel de carros da América Latina. Sendo assim, o aplicativo permite a consulta da previsão do tempo da localização atual e do destino da viagem do cliente, com apenas um clique!
 
+<img src="https://github.com/lucasscf/localizaWeather/blob/master/appVideo.gif" alt="drawing" width="300"/>
+
 ## Desenvolvimento 
 
 O projeto foi desenvolvido na linguagem Swift 5+, com o Xcode 11.4.1.
