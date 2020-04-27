@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - Nimble (8.0.5)
+  - Quick (2.2.0)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.1)
+  - Kingfisher
+  - Nimble
+  - Quick
+  - RxSwift (~> 5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Nimble
+    - Quick
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: e5fb450ebf401410a42415eab8d00e3b9d62af9e
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  LocalizaWeather
+
+  Created by Lucas Franco on 24/04/20.
+  Copyright © 2020 Lucas Franco. All rights reserved.
+*/
+
+"titlePage" = "Localiza Weather";
+"placeholderName" = "Insira seu nome";
+"placeholderDestination" = "Insira seu destino";
+"textButton" = "CONSULTAR";
+"switchDarkMode" = "Dark Mode";
+"switchLightMode" = "Light Mode";
+"textErrorDestination" = "Destino não encontrado";
+"textButtonUpdate" = "ATUALIZAR";
+"textOrign" = "Origem";
+"textDestin" = "Destino";
+"salutation" = "Olá";
+"titleMessageError" = "Erro";
+"messageErrorName" = "O campo de nome deve ser inserido!";
+"messageErrorDestination" = "Destino não encontrado ou não informado!";

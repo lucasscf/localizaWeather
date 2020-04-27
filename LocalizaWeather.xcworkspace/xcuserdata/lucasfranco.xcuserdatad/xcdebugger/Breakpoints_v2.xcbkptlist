@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC13354B-3355-46CF-B062-752CA39C3645"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E39C37-E57B-4D42-AD92-511F9BC3BA50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeather/Components/MapCenter/MapCenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "setupMapModelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "463D284D-9A73-438B-9614-41D65C7952D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeather/Components/MapCenter/MapCenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "setupMapModelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B520BF7C-F309-4C4D-993D-816921A2D4EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeather/Components/MapCenter/MapCenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "setupMapModelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D868330-6B49-4E6D-9FC6-C7C87BB19057"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeather/Components/MapCenter/MapCenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "setupMapModelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0667066-7013-4CE1-B642-6EF41B7EB2CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeather/View/Weather/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "returnCallOrignNetworkAPI(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01C4FF91-51F3-438F-924C-9AE77835FCCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeather/View/Weather/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "returnCallDestinNetworkAPI(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizaWeatherTests/NetworkTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - 330b391dccb4067"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.__deallocating_deinit"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - 23398eb293b2736d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; LocalizaWeatherTests.NetworkTests"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - f963ab589d7a1696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; LocalizaWeatherTests.NetworkTests"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - 2fe712e3144f56e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; LocalizaWeatherTests.NetworkTests"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - a7b7fd8e36aba8b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.init(selector: ObjectiveC.Selector) -&gt; LocalizaWeatherTests.NetworkTests"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - ae3de9c62e0387a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.__allocating_init() -&gt; LocalizaWeatherTests.NetworkTests"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1DCE45D1-127D-4457-9825-081CCC4D548D - 976db6be6ad542e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizaWeatherTests.NetworkTests.init() -&gt; LocalizaWeatherTests.NetworkTests"
+                  moduleName = "LocalizaWeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfranco/Desktop/LocalizaWeather/LocalizaWeather/LocalizaWeatherTests/NetworkTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
